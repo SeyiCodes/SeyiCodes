@@ -7,10 +7,10 @@ I'm a Software Engineer looking to get started in cloud . I'm passionate about s
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and in The GADS x Andela CLoud program.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and in The GADS x Andela Cloud program.
+- 🌱 I’m currently learning JavaScript, Reactjs,Python,Git,GCP,Terraform,Docker and Kubernetes.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, cloud Enigneer or DevOPs  (Intern or Junior level).
+- 💼 Job interests: Software Engineer, cloud Enigneer or DevOps  (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by oluwaseyi_akinnawo@rocketmail.com.com.
 
 ---
