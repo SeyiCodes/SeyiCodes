@@ -7,7 +7,7 @@ I'm Oluwaseyi Akinnawo, a DevOps/Cloud Engineer. I'm passionate about sharing kn
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I recently graduated from the AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and in The GADS x Andela Cloud program.
+- 💡 Fun fact: I recently graduated from the AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and  The 2022 GADS x Andela Cloud program.
 - 🌱 I’m currently learning Go, Git, AWS, GCP, Ansible, Terraform, Docker and Kubernetes.
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer or DevOps  (Intern or Junior level).
